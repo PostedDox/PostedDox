@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @PostedDox
-- 👀 I’m interested in 
-- 🌱 I’m currently learning .. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Add my discord user! Posteddox or my ig abusedusa
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Coding 
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on projects 
+- 📫 How to reach me follow my ig txm1xvz
+- 😄 Pronouns: Only/two/Genders 
+- ⚡ Fun fact: I'm normal 
 
 <!---
 PostedDox/PostedDox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
